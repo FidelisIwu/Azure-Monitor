@@ -237,4 +237,4 @@ Switch back to the Log Analytics blade and re-run the query. You might need to w
 ## Reflection
 This exercise provided hands-on experience with Azure Monitor and Log Analytics for data collection and analysis. It familiarized me with deploying virtual machines, creating workspaces, connecting virtual machines to workspaces, configuring data collection settings, and running queries for analysis. It emphasized the significance of monitoring data to optimize performance and make informed decisions.  
 
-<p align="right"> Continue to <a href="https://github.com/FidelisIwu/Microsoft-Defender"> Microsoft Defender</a></p>
+<p align="right"> Continue to <a href="https://github.com/FidelisIwu/Azure-Honeynet"> Azure Honeynet</a></p>
